@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0; 
+ 
+  background-image: url('../public/love.jpg'); /* Replace with your image path */
+  background-size: cover;
+  background-repeat: no-repeat; 
+  background-position: center; 
+}
+
